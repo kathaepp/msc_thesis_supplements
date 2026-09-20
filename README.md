@@ -1,7 +1,7 @@
 # Supplements to M.Sc. Thesis
 
 ## Overview
-This repository contains the scripts used for analysis and visualization as well as a detailed explanation of file adaptations in my master thesis "Towards an Urban Scheme in ICON-Land".
+This repository contains the scripts used for analysis and visualization as well as a detailed explanation of ICON-Land input file adaptations for my master thesis "Towards an Urban Scheme in ICON-Land".
 
 ## Files in this Repository
 - `File_adaptations.md` contains detailed explanations of the preparation of the initial and boundary condition (ic/bc) files and the model runscripts for ICON-Land

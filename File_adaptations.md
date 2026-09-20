@@ -1,6 +1,6 @@
 This file details the technical steps taken to prepare the initial and boundary condition (ic/bc) files and the ICON-Land runscripts for our simulations.
 
-Preparation of ic/bc files:
+# Preparation of ic/bc files:
 - First, we used Zonda (Center for Climate Systems Modeling, 2026b) to select small grids in the area around the given flux tower site from the R5B10 grid (resolution apx. 0.99 km).
 - Next, we used these grids to obtain the corresponding ic/bc files using Extpar (Center for Climate Systems Modeling, 2026a).
 - Then, we used the Python function "iconarray.indfromlatlon" to find the index of the single cell closest to the flux tower station, and the cdo command "selgridcell" to select these single cells from the ic/bc files.
@@ -23,7 +23,7 @@ Preparation of ic/bc files:
     - glac: 0
     - fract_veg: 1
 
-Preparation of runscripts:
+# Preparation of runscripts:
 - We created one .exp file per station and simulation based on the exp.land_jsbach_sitelevel_test file provided by MPI-M (2026).
 - The following adjustments were made for all simulations and sites:
     - l_soil_texture: .TRUE. (in both the sse and hydro namelists)
@@ -54,7 +54,8 @@ Preparation of runscripts:
     
 
 
-References:
+#References:
+
 Center for Climate Systems Modeling. (2026a, July 8). EXTPAR Documentation. Retrieved
 September 2, 2026, from https://c2sm.github.io/extpar/
 

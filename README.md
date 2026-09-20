@@ -17,5 +17,6 @@ This repository contains the scripts used for analysis and visualization as well
 ## Acknowledgement
 The .R scripts are based on scripts provided by Lalonde et al. (2026b) for their analysis of the urban scheme in the ORCHIDEE LSM (Lalonde et al., 2026a).
 
-Lalonde, M., Bastin, S., Oudin, L., Arboleda-Obando, P. F., & Ducharne, A. (2026a). Benchmarking a new urban scheme in the ORCHIDEE v2.2 land surface model. EGUsphere, 1–33. [https://doi.org/10.5194/egusphere-2026-551](https://doi.org/10.5194/egusphere-2026-551)  
+Lalonde, M., Bastin, S., Oudin, L., Arboleda-Obando, P. F., & Ducharne, A. (2026a). Benchmarking a new urban scheme in the ORCHIDEE v2.2 land surface model. EGUsphere, 1–33. [https://doi.org/10.5194/egusphere-2026-551](https://doi.org/10.5194/egusphere-2026-551)
+
 Lalonde, M., Bastin, S., Oudin, L., Arboleda-Obando, P. F., & Ducharne, A. (2026b, March 18). Scripts - benchmarking and evaluating a new urban scheme in the ORCHIDEE land surface model. [https://doi.org/10.5281/zenodo.19097389](https://doi.org/10.5281/zenodo.19097389)

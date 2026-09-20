@@ -57,11 +57,9 @@ This file details the technical steps taken to prepare the initial and boundary 
 
 ## References:
 
-Center for Climate Systems Modeling. (2026a, July 8). EXTPAR Documentation. Retrieved
-September 2, 2026, from https://c2sm.github.io/extpar/
+Center for Climate Systems Modeling. (2026a, July 8). EXTPAR Documentation. Retrieved September 2, 2026, from https://c2sm.github.io/extpar/
 
-Center for Climate Systems Modeling. (2026b). Zonda - ICON grid & EXTPAR interface.
-Retrieved September 20, 2026, from https://zonda.ethz.ch/
+Center for Climate Systems Modeling. (2026b). Zonda - ICON grid & EXTPAR interface. Retrieved September 20, 2026, from https://zonda.ethz.ch/
 
 Lipson, M., Grimmond, S., Best, M., Chow, W. T. L., Christen, A., Chrysoulakis, N., Coutts,
 A., Crawford, B., Earl, S., Evans, J., Fortuniak, K., Heusinkveld, B. G., Hong, J.-W.,
@@ -69,5 +67,4 @@ Hong, J., Järvi, L., Jo, S., Kim, Y.-H., Kotthaus, S., Lee, K., . . . Ward, H. 
 Harmonized gap-filled datasets from 20 urban flux tower sites. Earth System Science
 Data, 14 (11), 5157–5178. https://doi.org/10.5194/essd-14-5157-2022
 
-Max Planck Institute for Meteorology. (2026, September 3). Icon / icon-mpim · GitLab. Re-
-trieved September 3, 2026, from https://gitlab.dkrz.de/icon/icon-mpim
+Max Planck Institute for Meteorology. (2026, September 3). Icon / icon-mpim · GitLab. Retrieved September 3, 2026, from https://gitlab.dkrz.de/icon/icon-mpim
